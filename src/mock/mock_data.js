@@ -26,13 +26,6 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "https://external-content.duckduckgo.com/ip3/github.com.ico"
-        },
-        {
-          "id": "site-1752649007053",
-          "name": "BeJson",
-          "url": "https://www.bejson.com/",
-          "description": "工具大全",
-          "icon": "https://external-content.duckduckgo.com/ip3/www.bejson.com.ico"
         }
       ]
     },
@@ -42,27 +35,6 @@ export const mockData = {
       "icon": "🤖",
       "order": 1,
       "sites": [
-        {
-          "id": "chatgpt",
-          "name": "ChatGPT",
-          "url": "https://chat.openai.com",
-          "description": "OpenAI对话AI助手",
-          "icon": "https://external-content.duckduckgo.com/ip3/chat.openai.com.ico"
-        },
-        {
-          "id": "claude",
-          "name": "Claude",
-          "url": "https://claude.ai",
-          "description": "Anthropic AI助手",
-          "icon": "https://external-content.duckduckgo.com/ip3/claude.ai.ico"
-        },
-        {
-          "id": "midjourney",
-          "name": "Midjourney",
-          "url": "https://www.midjourney.com",
-          "description": "AI图像生成工具",
-          "icon": "https://external-content.duckduckgo.com/ip3/www.midjourney.com.ico"
-        },
         {
           "id": "copilot",
           "name": "GitHub Copilot",
@@ -100,13 +72,6 @@ export const mockData = {
           "icon": "https://external-content.duckduckgo.com/ip3/vercel.com.ico"
         },
         {
-          "id": "aws",
-          "name": "AWS",
-          "url": "https://aws.amazon.com",
-          "description": "亚马逊云服务",
-          "icon": "https://external-content.duckduckgo.com/ip3/aws.amazon.com.ico"
-        },
-        {
           "id": "aliyun",
           "name": "阿里云",
           "url": "https://www.aliyun.com",
@@ -133,56 +98,6 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "https://external-content.duckduckgo.com/ip3/www.pasyun.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "dev-tools",
-      "name": "开发工具",
-      "icon": "🛠️",
-      "order": 3,
-      "sites": [
-        {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "https://external-content.duckduckgo.com/ip3/github.com.ico"
-        },
-        {
-          "id": "vscode",
-          "name": "VS Code",
-          "url": "https://code.visualstudio.com",
-          "description": "代码编辑器",
-          "icon": "https://external-content.duckduckgo.com/ip3/code.visualstudio.com.ico"
-        },
-        {
-          "id": "webstorm",
-          "name": "WebStorm",
-          "url": "https://www.jetbrains.com/webstorm/",
-          "description": "专业前端IDE",
-          "icon": "https://external-content.duckduckgo.com/ip3/www.jetbrains.com.ico"
-        },
-        {
-          "id": "postman",
-          "name": "Postman",
-          "url": "https://www.postman.com",
-          "description": "API测试工具",
-          "icon": "https://external-content.duckduckgo.com/ip3/www.postman.com.ico"
-        },
-        {
-          "id": "android-studio",
-          "name": "Android Studio",
-          "url": "https://developer.android.com/studio",
-          "description": "Android官方开发工具",
-          "icon": "https://external-content.duckduckgo.com/ip3/developer.android.com.ico"
-        },
-        {
-          "id": "oracle-java",
-          "name": "Oracle Java",
-          "url": "https://www.oracle.com/java/technologies/downloads/",
-          "description": "Oracle官方Java下载",
-          "icon": "https://external-content.duckduckgo.com/ip3/www.oracle.com.ico"
         }
       ]
     },
@@ -226,42 +141,6 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "https://external-content.duckduckgo.com/ip3/www.52pojie.cn.ico"
-        }
-      ]
-    },
-    {
-      "id": "design",
-      "name": "设计工具",
-      "icon": "🎨",
-      "order": 4,
-      "sites": [
-        {
-          "id": "figma",
-          "name": "Figma",
-          "url": "https://figma.com",
-          "description": "UI设计工具",
-          "icon": "https://external-content.duckduckgo.com/ip3/figma.com.ico"
-        },
-        {
-          "id": "sketch",
-          "name": "Sketch",
-          "url": "https://www.sketch.com",
-          "description": "界面设计工具",
-          "icon": "https://external-content.duckduckgo.com/ip3/www.sketch.com.ico"
-        },
-        {
-          "id": "canva",
-          "name": "Canva",
-          "url": "https://www.canva.com",
-          "description": "在线设计平台",
-          "icon": "https://external-content.duckduckgo.com/ip3/www.canva.com.ico"
-        },
-        {
-          "id": "adobe-xd",
-          "name": "Adobe XD",
-          "url": "https://www.adobe.com/products/xd.html",
-          "description": "用户体验设计工具",
-          "icon": "https://external-content.duckduckgo.com/ip3/www.adobe.com.ico"
         }
       ]
     },
@@ -434,42 +313,6 @@ export const mockData = {
           "url": "https://www.douban.com",
           "description": "文艺生活社区",
           "icon": "https://external-content.duckduckgo.com/ip3/www.douban.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "office",
-      "name": "办公协作",
-      "icon": "💼",
-      "order": 9,
-      "sites": [
-        {
-          "id": "notion",
-          "name": "Notion",
-          "url": "https://www.notion.so",
-          "description": "全能工作空间",
-          "icon": "https://external-content.duckduckgo.com/ip3/www.notion.so.ico"
-        },
-        {
-          "id": "slack",
-          "name": "Slack",
-          "url": "https://slack.com",
-          "description": "团队协作工具",
-          "icon": "https://external-content.duckduckgo.com/ip3/slack.com.ico"
-        },
-        {
-          "id": "trello",
-          "name": "Trello",
-          "url": "https://trello.com",
-          "description": "项目管理工具",
-          "icon": "https://external-content.duckduckgo.com/ip3/trello.com.ico"
-        },
-        {
-          "id": "feishu",
-          "name": "飞书",
-          "url": "https://www.feishu.cn",
-          "description": "企业协作平台",
-          "icon": "https://external-content.duckduckgo.com/ip3/www.feishu.cn.ico"
         }
       ]
     }
