@@ -48,6 +48,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "https://external-content.duckduckgo.com/ip3/cursor.sh.ico"
+        },
+        {
+          "id": "site-1753431491188",
+          "name": "AI站",
+          "url": "https://ai.980324.xyz",
+          "description": "",
+          "icon": "https://favicone.com/ai.980324.xyz?s=64"
         }
       ]
     },
