@@ -241,6 +241,13 @@ export const mockData = {
           "url": "https://www.coursera.org",
           "description": "在线课程平台",
           "icon": "https://external-content.duckduckgo.com/ip3/www.coursera.org.ico"
+        },
+        {
+          "id": "site-1753429498680",
+          "name": "樱花资源",
+          "url": "https://www.xtvtv.com/",
+          "description": "免费的图片资源网站",
+          "icon": "https://external-content.duckduckgo.com/ip3/www.xtvtv.com.ico"
         }
       ]
     },
