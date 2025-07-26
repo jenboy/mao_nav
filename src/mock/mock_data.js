@@ -115,13 +115,6 @@ export const mockData = {
       "order": 6,
       "sites": [
         {
-          "id": "linuxdo",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux与开源技术社区",
-          "icon": "https://external-content.duckduckgo.com/ip3/linux.do.ico"
-        },
-        {
           "id": "52pojie",
           "name": "吾爱破解",
           "url": "https://www.52pojie.cn/",
@@ -148,6 +141,13 @@ export const mockData = {
           "url": "https://www.v2ex.com",
           "description": "创意工作者社区",
           "icon": "https://favicone.com/www.v2ex.com?s=64"
+        },
+        {
+          "id": "linuxdo",
+          "name": "Linux.do",
+          "url": "https://linux.do",
+          "description": "Linux与开源技术社区",
+          "icon": "https://favicone.com/linux.do?s=64"
         }
       ]
     },
