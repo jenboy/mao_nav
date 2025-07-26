@@ -105,6 +105,13 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "https://favicone.com/www.pasyun.com?s=64"
+        },
+        {
+          "id": "site-1753521832543",
+          "name": "雨云",
+          "url": "https://app.rainyun.com/",
+          "description": "雨云服务器",
+          "icon": "https://favicone.com/app.rainyun.com?s=64"
         }
       ]
     },
