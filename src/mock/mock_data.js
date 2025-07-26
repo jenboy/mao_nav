@@ -122,13 +122,6 @@ export const mockData = {
       "order": 6,
       "sites": [
         {
-          "id": "52pojie",
-          "name": "吾爱破解",
-          "url": "https://www.52pojie.cn/",
-          "description": "软件安全与破解技术论坛",
-          "icon": "https://external-content.duckduckgo.com/ip3/www.52pojie.cn.ico"
-        },
-        {
           "id": "stackoverflow",
           "name": "Stack Overflow",
           "url": "https://stackoverflow.com",
@@ -155,6 +148,13 @@ export const mockData = {
           "url": "https://linux.do",
           "description": "Linux与开源技术社区",
           "icon": "https://favicone.com/linux.do?s=64"
+        },
+        {
+          "id": "52pojie",
+          "name": "吾爱破解",
+          "url": "https://www.52pojie.cn/",
+          "description": "软件安全与破解技术论坛",
+          "icon": "https://favicone.com/www.52pojie.cn?s=64"
         }
       ]
     },
@@ -164,13 +164,6 @@ export const mockData = {
       "icon": "💰",
       "order": 5,
       "sites": [
-        {
-          "id": "tonghuashun",
-          "name": "同花顺",
-          "url": "https://www.10jqka.com.cn",
-          "description": "专业股票软件及金融信息服务",
-          "icon": "https://external-content.duckduckgo.com/ip3/www.10jqka.com.cn.ico"
-        },
         {
           "id": "binance",
           "name": "币安",
@@ -219,6 +212,13 @@ export const mockData = {
           "url": "https://www.futunn.com",
           "description": "港美股交易软件",
           "icon": "https://favicone.com/www.futunn.com?s=64"
+        },
+        {
+          "id": "tonghuashun",
+          "name": "同花顺",
+          "url": "https://www.10jqka.com.cn",
+          "description": "专业股票软件及金融信息服务",
+          "icon": "https://favicone.com/www.10jqka.com.cn?s=64"
         }
       ]
     },
