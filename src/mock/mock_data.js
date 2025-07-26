@@ -109,7 +109,7 @@ export const mockData = {
         {
           "id": "site-1753521832543",
           "name": "雨云",
-          "url": "https://app.rainyun.com/",
+          "url": "https://www.rainyun.com/NDkwOTgy_",
           "description": "雨云服务器",
           "icon": "https://favicone.com/app.rainyun.com?s=64"
         }
