@@ -222,13 +222,6 @@ export const mockData = {
       "order": 6,
       "sites": [
         {
-          "id": "runoob",
-          "name": "菜鸟教程",
-          "url": "https://www.runoob.com",
-          "description": "编程技术教程",
-          "icon": "https://external-content.duckduckgo.com/ip3/www.runoob.com.ico"
-        },
-        {
           "id": "mdn",
           "name": "MDN Web Docs",
           "url": "https://developer.mozilla.org",
@@ -255,6 +248,13 @@ export const mockData = {
           "url": "https://www.xtvtv.com/",
           "description": "免费的图片资源网站",
           "icon": "https://favicone.com/www.xtvtv.com?s=64"
+        },
+        {
+          "id": "runoob",
+          "name": "菜鸟教程",
+          "url": "https://www.runoob.com",
+          "description": "编程技术教程",
+          "icon": "https://favicone.com/www.runoob.com?s=64"
         }
       ]
     },
