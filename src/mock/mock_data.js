@@ -11,21 +11,21 @@ export const mockData = {
           "name": "Linux.do",
           "url": "https://linux.do",
           "description": "Linux技术社区，Peace and Love",
-          "icon": "https://external-content.duckduckgo.com/ip3/linux.do.ico"
+          "icon": "https://favicone.com/linux.do?s=64"
         },
         {
           "id": "curlconverter",
           "name": "curl converter",
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
-          "icon": "https://external-content.duckduckgo.com/ip3/curlconverter.com.ico"
+          "icon": "https://favicone.com/curlconverter.com?s=64"
         },
         {
           "id": "github",
           "name": "GitHub",
           "url": "https://github.com",
           "description": "代码托管平台",
-          "icon": "https://external-content.duckduckgo.com/ip3/github.com.ico"
+          "icon": "https://favicone.com/github.com?s=64"
         }
       ]
     },
@@ -36,25 +36,25 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
+          "id": "site-1753431491188",
+          "name": "AI站",
+          "url": "https://ai.980324.xyz",
+          "description": "",
+          "icon": "https://favicone.com/ai.980324.xyz?s=64"
+        },
+        {
           "id": "copilot",
           "name": "GitHub Copilot",
           "url": "https://github.com/features/copilot",
           "description": "AI代码助手",
-          "icon": "https://external-content.duckduckgo.com/ip3/github.com.ico"
+          "icon": "https://favicone.com/github.com?s=64"
         },
         {
           "id": "cursor",
           "name": "Cursor",
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
-          "icon": "https://external-content.duckduckgo.com/ip3/cursor.sh.ico"
-        },
-        {
-          "id": "site-1753431491188",
-          "name": "AI站",
-          "url": "https://ai.980324.xyz",
-          "description": "",
-          "icon": "https://favicone.com/ai.980324.xyz?s=64"
+          "icon": "https://favicone.com/cursor.sh?s=64"
         }
       ]
     },
@@ -64,13 +64,6 @@ export const mockData = {
       "icon": "☁️",
       "order": 2,
       "sites": [
-        {
-          "id": "cloudflare",
-          "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
-          "description": "全球CDN和网络安全服务",
-          "icon": "https://external-content.duckduckgo.com/ip3/www.cloudflare.com.ico"
-        },
         {
           "id": "vercel",
           "name": "Vercel",
@@ -93,18 +86,25 @@ export const mockData = {
           "icon": "https://external-content.duckduckgo.com/ip3/cloud.tencent.com.ico"
         },
         {
-          "id": "huawei-cloud",
-          "name": "华为云",
-          "url": "https://www.huaweicloud.com",
-          "description": "华为云计算服务",
-          "icon": "https://external-content.duckduckgo.com/ip3/www.huaweicloud.com.ico"
-        },
-        {
           "id": "site-1752644060499",
           "name": "怕死云",
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "https://external-content.duckduckgo.com/ip3/www.pasyun.com.ico"
+        },
+        {
+          "id": "cloudflare",
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com",
+          "description": "全球CDN和网络安全服务",
+          "icon": "https://f1.allesedv.com/64/www.cloudflare.com"
+        },
+        {
+          "id": "huawei-cloud",
+          "name": "华为云",
+          "url": "https://www.huaweicloud.com",
+          "description": "华为云计算服务",
+          "icon": "https://favicone.com/www.huaweicloud.com?s=64"
         }
       ]
     },
