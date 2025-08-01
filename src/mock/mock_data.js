@@ -26,6 +26,27 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "https://favicone.com/github.com?s=64"
+        },
+        {
+          "id": "site-1754017748163",
+          "name": "银河奶牛",
+          "url": "https://www.milkywayidle.com/",
+          "description": "",
+          "icon": "https://favicone.com/www.milkywayidle.com?s=64"
+        },
+        {
+          "id": "site-1754018106690",
+          "name": "银河猫娘",
+          "url": "http://test.nekoidle.art/game",
+          "description": "",
+          "icon": "https://favicone.com/test.nekoidle.art?s=64"
+        },
+        {
+          "id": "site-1753431491188",
+          "name": "AI站",
+          "url": "https://ai.980324.xyz",
+          "description": "",
+          "icon": "https://favicone.com/ai.980324.xyz?s=64"
         }
       ]
     },
@@ -35,13 +56,6 @@ export const mockData = {
       "icon": "🤖",
       "order": 1,
       "sites": [
-        {
-          "id": "site-1753431491188",
-          "name": "AI站",
-          "url": "https://ai.980324.xyz",
-          "description": "",
-          "icon": "https://favicone.com/ai.980324.xyz?s=64"
-        },
         {
           "id": "copilot",
           "name": "GitHub Copilot",
@@ -119,7 +133,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 6,
+      "order": 3,
       "sites": [
         {
           "id": "stackoverflow",
@@ -162,7 +176,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 5,
+      "order": 4,
       "sites": [
         {
           "id": "binance",
@@ -226,7 +240,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 6,
+      "order": 5,
       "sites": [
         {
           "id": "mdn",
@@ -276,7 +290,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 7,
+      "order": 6,
       "sites": [
         {
           "id": "json-formatter",
@@ -312,7 +326,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 7,
       "sites": [
         {
           "id": "bilibili",
@@ -341,20 +355,6 @@ export const mockData = {
           "url": "https://www.douban.com",
           "description": "文艺生活社区",
           "icon": "https://favicone.com/www.douban.com?s=64"
-        },
-        {
-          "id": "site-1754017748163",
-          "name": "银河奶牛",
-          "url": "https://www.milkywayidle.com/",
-          "description": "",
-          "icon": "https://favicone.com/www.milkywayidle.com?s=64"
-        },
-        {
-          "id": "site-1754018106690",
-          "name": "银河猫娘",
-          "url": "http://test.nekoidle.art/game",
-          "description": "",
-          "icon": "https://favicone.com/test.nekoidle.art?s=64"
         }
       ]
     }
