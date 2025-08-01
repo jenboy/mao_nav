@@ -341,6 +341,13 @@ export const mockData = {
           "url": "https://www.milkywayidle.com/",
           "description": "",
           "icon": "https://favicone.com/www.milkywayidle.com?s=64"
+        },
+        {
+          "id": "site-1754018106690",
+          "name": "银河猫娘",
+          "url": "http://test.nekoidle.art/game",
+          "description": "",
+          "icon": "https://favicone.com/test.nekoidle.art?s=64"
         }
       ]
     }
