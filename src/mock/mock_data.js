@@ -334,6 +334,13 @@ export const mockData = {
           "url": "https://www.douban.com",
           "description": "文艺生活社区",
           "icon": "https://favicone.com/www.douban.com?s=64"
+        },
+        {
+          "id": "site-1754017748163",
+          "name": "银河奶牛",
+          "url": "https://www.milkywayidle.com/",
+          "description": "",
+          "icon": "https://favicone.com/www.milkywayidle.com?s=64"
         }
       ]
     }
