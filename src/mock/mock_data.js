@@ -162,6 +162,13 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "https://favicone.com/www.52pojie.cn?s=64"
+        },
+        {
+          "id": "site-1754041725964",
+          "name": "echeverra",
+          "url": "https://echeverra.cn/",
+          "description": "",
+          "icon": "https://external-content.duckduckgo.com/ip3/echeverra.cn.ico"
         }
       ]
     },
@@ -355,6 +362,13 @@ export const mockData = {
           "url": "https://www.douban.com",
           "description": "文艺生活社区",
           "icon": "https://favicone.com/www.douban.com?s=64"
+        },
+        {
+          "id": "site-1754041496741",
+          "name": "油猴MWI脚本",
+          "url": "https://greasyfork.org/zh-CN/scripts?q=MWI",
+          "description": "",
+          "icon": "https://favicone.com/greasyfork.org?s=64"
         }
       ]
     }
