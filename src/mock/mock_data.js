@@ -369,6 +369,13 @@ export const mockData = {
           "url": "https://greasyfork.org/zh-CN/scripts?q=MWI",
           "description": "",
           "icon": "https://favicone.com/greasyfork.org?s=64"
+        },
+        {
+          "id": "site-1754041855772",
+          "name": "小霸王游戏",
+          "url": "http://101.43.194.154:201/",
+          "description": "",
+          "icon": "https://external-content.duckduckgo.com/ip3/101.43.194.154:201.ico"
         }
       ]
     }
