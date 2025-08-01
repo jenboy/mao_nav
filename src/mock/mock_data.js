@@ -262,6 +262,13 @@ export const mockData = {
           "url": "https://www.runoob.com",
           "description": "编程技术教程",
           "icon": "https://favicone.com/www.runoob.com?s=64"
+        },
+        {
+          "id": "site-1754018971745",
+          "name": "小新闻阅读",
+          "url": "https://englishnewsinlevels.com/",
+          "description": "",
+          "icon": "https://favicone.com/englishnewsinlevels.com?s=64"
         }
       ]
     },
