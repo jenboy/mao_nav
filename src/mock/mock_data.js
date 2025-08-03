@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://ai.980324.xyz",
           "description": "",
           "icon": "https://favicone.com/ai.980324.xyz?s=64"
+        },
+        {
+          "id": "site-1754199906997",
+          "name": "小霸王游戏",
+          "url": "https://www.yikm.net/",
+          "description": "",
+          "icon": "https://favicone.com/www.yikm.net?s=64"
         }
       ]
     },
@@ -376,6 +383,13 @@ export const mockData = {
           "url": "http://101.43.194.154:201/",
           "description": "",
           "icon": "https://external-content.duckduckgo.com/ip3/101.43.194.154:201.ico"
+        },
+        {
+          "id": "site-1754199926869",
+          "name": "小霸王游戏",
+          "url": "https://www.yikm.net/",
+          "description": "",
+          "icon": "https://favicone.com/www.yikm.net?s=64"
         }
       ]
     }
