@@ -390,6 +390,13 @@ export const mockData = {
           "url": "https://www.yikm.net/",
           "description": "",
           "icon": "https://favicone.com/www.yikm.net?s=64"
+        },
+        {
+          "id": "site-1754200583342",
+          "name": "银河奶牛",
+          "url": "https://www.milkywayidle.com/?ref=355293",
+          "description": "",
+          "icon": "https://favicone.com/www.milkywayidle.com?s=64"
         }
       ]
     }
