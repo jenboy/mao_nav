@@ -333,6 +333,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "https://favicone.com/curlconverter.com?s=64"
+        },
+        {
+          "id": "site-1754297011808",
+          "name": "当贝AI",
+          "url": "https://ai.dangbei.com/agent",
+          "description": "首款旅行AI超级智能体，极简易用，3屏设计，简单直观，小白也能轻松做旅游攻略！",
+          "icon": "https://favicone.com/ai.dangbei.com?s=64"
         }
       ]
     },
