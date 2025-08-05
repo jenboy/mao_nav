@@ -411,6 +411,13 @@ export const mockData = {
           "url": "https://www.emu666.com/",
           "description": "一个在线模拟器网站，无需下载和安装即可在 Web 平台上运行各种经典老旧游戏",
           "icon": "https://favicone.com/www.emu666.com?s=64"
+        },
+        {
+          "id": "site-1754384152854",
+          "name": "世界盒子",
+          "url": "https://gamecdn.1011games.com/WorldBox2/web-mobile/index.html",
+          "description": "一款模拟沙盒游戏，可以创造生命并见证它的繁荣，文明可以建造房屋、道路，也可以战争（手机体验更好）",
+          "icon": "https://favicone.com/gamecdn.1011games.com?s=64"
         }
       ]
     }
