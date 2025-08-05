@@ -404,6 +404,13 @@ export const mockData = {
           "url": "https://www.milkywayidle.com/?ref=355293",
           "description": "",
           "icon": "https://favicone.com/www.milkywayidle.com?s=64"
+        },
+        {
+          "id": "site-1754381479699",
+          "name": "Emu66",
+          "url": "https://www.emu666.com/",
+          "description": "一个在线模拟器网站，无需下载和安装即可在 Web 平台上运行各种经典老旧游戏",
+          "icon": "https://favicone.com/www.emu666.com?s=64"
         }
       ]
     }
