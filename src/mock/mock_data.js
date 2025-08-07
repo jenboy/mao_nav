@@ -425,6 +425,13 @@ export const mockData = {
           "url": "https://flgame.cycx.top:70/",
           "description": "支持200多款游戏在线联机。",
           "icon": "https://f1.allesedv.com/64/flgame.cycx.top:70"
+        },
+        {
+          "id": "site-1754553820628",
+          "name": "红警",
+          "url": "https://www.ra2web.com/",
+          "description": "在线玩红警",
+          "icon": "https://favicone.com/www.ra2web.com?s=64"
         }
       ]
     }
