@@ -418,6 +418,13 @@ export const mockData = {
           "url": "https://gamecdn.1011games.com/WorldBox2/web-mobile/index.html",
           "description": "一款模拟沙盒游戏，可以创造生命并见证它的繁荣，文明可以建造房屋、道路，也可以战争（手机体验更好）",
           "icon": "https://favicone.com/gamecdn.1011games.com?s=64"
+        },
+        {
+          "id": "site-1754548647599",
+          "name": "前线竞技场",
+          "url": "https://flgame.cycx.top:70/",
+          "description": "支持200多款游戏在线联机。",
+          "icon": "https://f1.allesedv.com/64/flgame.cycx.top:70"
         }
       ]
     }
