@@ -425,6 +425,13 @@ export const mockData = {
           "url": "https://www.ra2web.com/",
           "description": "在线玩红警",
           "icon": "https://favicone.com/www.ra2web.com?s=64"
+        },
+        {
+          "id": "site-1755166101776",
+          "name": "超级马里奥兄弟在线版",
+          "url": "https://supermarioplay.com/cn",
+          "description": "免费在线玩原版的 Super Mario Bros 游戏",
+          "icon": "https://favicone.com/supermarioplay.com?s=64"
         }
       ]
     }
