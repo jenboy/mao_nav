@@ -340,6 +340,13 @@ export const mockData = {
           "url": "https://ai.dangbei.com/agent",
           "description": "首款旅行AI超级智能体，极简易用，3屏设计，简单直观，小白也能轻松做旅游攻略！",
           "icon": "https://favicone.com/ai.dangbei.com?s=64"
+        },
+        {
+          "id": "site-1756201587096",
+          "name": "全国企业信息查询系统",
+          "url": "https://test1.javaw.icu/",
+          "description": "全国企业信息查询系统",
+          "icon": "https://favicone.com/test1.javaw.icu?s=64"
         }
       ]
     },
