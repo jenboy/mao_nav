@@ -347,6 +347,13 @@ export const mockData = {
           "url": "https://test1.javaw.icu/",
           "description": "全国企业信息查询系统",
           "icon": "https://favicone.com/test1.javaw.icu?s=64"
+        },
+        {
+          "id": "site-1756512743170",
+          "name": "Raphael AI",
+          "url": "https://raphael.app/",
+          "description": "世界上第一个完全免费、无限制、无需要注册登录、基于 Flux.1-DEV 的 AI 图像生成器。",
+          "icon": "https://favicone.com/raphael.app?s=64"
         }
       ]
     },
