@@ -26,13 +26,6 @@ export const mockData = {
           "url": "https://ai.980324.xyz",
           "description": "",
           "icon": "https://favicone.com/ai.980324.xyz?s=64"
-        },
-        {
-          "id": "site-1754199906997",
-          "name": "小霸王游戏",
-          "url": "https://www.yikm.net/",
-          "description": "",
-          "icon": "https://favicone.com/www.yikm.net?s=64"
         }
       ]
     },
@@ -172,32 +165,11 @@ export const mockData = {
       "order": 4,
       "sites": [
         {
-          "id": "binance",
-          "name": "币安",
-          "url": "https://www.binance.com",
-          "description": "加密货币交易平台",
-          "icon": "https://favicone.com/www.binance.com?s=64"
-        },
-        {
-          "id": "okx",
-          "name": "OKX",
-          "url": "https://www.okx.com",
-          "description": "数字资产交易服务平台",
-          "icon": "https://favicone.com/www.okx.com?s=64"
-        },
-        {
           "id": "bitget",
           "name": "Bitget",
           "url": "https://www.bitget.com",
           "description": "全球化数字资产交易服务商",
           "icon": "https://favicone.com/www.bitget.com?s=64"
-        },
-        {
-          "id": "tradingview",
-          "name": "TradingView",
-          "url": "https://cn.tradingview.com",
-          "description": "专业金融图表和交易平台",
-          "icon": "https://favicone.com/cn.tradingview.com?s=64"
         },
         {
           "id": "xueqiu",
