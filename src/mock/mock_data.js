@@ -322,13 +322,6 @@ export const mockData = {
       "order": 7,
       "sites": [
         {
-          "id": "bilibili",
-          "name": "哔哩哔哩",
-          "url": "https://www.bilibili.com",
-          "description": "弹幕视频网站",
-          "icon": "https://favicone.com/www.bilibili.com?s=64"
-        },
-        {
           "id": "youtube",
           "name": "YouTube",
           "url": "https://www.youtube.com",
