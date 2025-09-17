@@ -357,13 +357,6 @@ export const mockData = {
           "icon": "https://favicone.com/greasyfork.org?s=64"
         },
         {
-          "id": "site-1754199926869",
-          "name": "小霸王游戏",
-          "url": "https://www.yikm.net/",
-          "description": "",
-          "icon": "https://favicone.com/www.yikm.net?s=64"
-        },
-        {
           "id": "site-1754200583342",
           "name": "银河奶牛",
           "url": "https://www.milkywayidle.com/?ref=355293",
@@ -376,20 +369,6 @@ export const mockData = {
           "url": "https://www.emu666.com/",
           "description": "一个在线模拟器网站，无需下载和安装即可在 Web 平台上运行各种经典老旧游戏",
           "icon": "https://favicone.com/www.emu666.com?s=64"
-        },
-        {
-          "id": "site-1754384152854",
-          "name": "世界盒子",
-          "url": "https://gamecdn.1011games.com/WorldBox2/web-mobile/index.html",
-          "description": "一款模拟沙盒游戏，可以创造生命并见证它的繁荣，文明可以建造房屋、道路，也可以战争（手机体验更好）",
-          "icon": "https://favicone.com/gamecdn.1011games.com?s=64"
-        },
-        {
-          "id": "site-1754548647599",
-          "name": "前线竞技场",
-          "url": "https://flgame.cycx.top:70/",
-          "description": "支持200多款游戏在线联机。",
-          "icon": "https://f1.allesedv.com/64/flgame.cycx.top:70"
         },
         {
           "id": "site-1754553820628",
