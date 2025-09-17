@@ -404,6 +404,13 @@ export const mockData = {
           "url": "https://supermarioplay.com/cn",
           "description": "免费在线玩原版的 Super Mario Bros 游戏",
           "icon": "https://favicone.com/supermarioplay.com?s=64"
+        },
+        {
+          "id": "site-1758070107956",
+          "name": "521GM游戏网",
+          "url": "https://521gm.cn",
+          "description": "免费公益游戏网",
+          "icon": "https://favicone.com/521gm.cn?s=64"
         }
       ]
     }
