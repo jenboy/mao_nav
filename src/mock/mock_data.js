@@ -248,6 +248,13 @@ export const mockData = {
           "url": "https://englishnewsinlevels.com/",
           "description": "",
           "icon": "https://favicone.com/englishnewsinlevels.com?s=64"
+        },
+        {
+          "id": "site-1758242186540",
+          "name": "CookLikeHOC",
+          "url": "https://cooklikehoc.soilzhu.su/",
+          "description": "像老乡鸡那样做饭",
+          "icon": "https://external-content.duckduckgo.com/ip3/cooklikehoc.soilzhu.su.ico"
         }
       ]
     },
