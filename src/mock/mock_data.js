@@ -155,6 +155,13 @@ export const mockData = {
           "url": "https://echeverra.cn/",
           "description": "",
           "icon": "https://external-content.duckduckgo.com/ip3/echeverra.cn.ico"
+        },
+        {
+          "id": "site-1758244883325",
+          "name": "天枢",
+          "url": "https://dubhe.site/",
+          "description": "",
+          "icon": "https://favicone.com/dubhe.site?s=64"
         }
       ]
     },
