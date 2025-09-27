@@ -262,6 +262,13 @@ export const mockData = {
           "url": "https://cooklikehoc.soilzhu.su/",
           "description": "像老乡鸡那样做饭",
           "icon": "https://external-content.duckduckgo.com/ip3/cooklikehoc.soilzhu.su.ico"
+        },
+        {
+          "id": "site-1758965773556",
+          "name": "一个网站",
+          "url": "https://gkd.pro/",
+          "description": "一个网站",
+          "icon": "https://favicone.com/gkd.pro?s=64"
         }
       ]
     },
