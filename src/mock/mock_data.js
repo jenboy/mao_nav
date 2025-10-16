@@ -48,6 +48,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "https://favicone.com/cursor.sh?s=64"
+        },
+        {
+          "id": "site-1760618442552",
+          "name": "AI赛博私教",
+          "url": "https://ai.snapfit.space/zh",
+          "description": "Snapifit-AI 通过提供一种革命性的、AI驱动的个人健康管理方法。",
+          "icon": "https://favicone.com/ai.snapfit.space?s=64"
         }
       ]
     },
@@ -404,13 +411,6 @@ export const mockData = {
           "url": "https://521gm.cn",
           "description": "免费公益游戏网",
           "icon": "https://favicone.com/521gm.cn?s=64"
-        },
-        {
-          "id": "site-1760618442552",
-          "name": "AI赛博私教",
-          "url": "https://ai.snapfit.space/zh",
-          "description": "传统的健身和营养追踪通常涉及繁琐的手动数据录入，这使得保持数据一致性并获取有意义的洞察变得充满挑战。Snapifit-AI 通过提供一种革命性的、AI驱动的个人健康管理方法，解决了这一痛点。受对高效健康工具日益增长的需求启发，Snapifit-AI 旨在为您的健身之旅提供无缝的记录、分析和智能建议体验。",
-          "icon": "https://favicone.com/ai.snapfit.space?s=64"
         }
       ]
     }
