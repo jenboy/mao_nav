@@ -364,27 +364,6 @@ export const mockData = {
           "icon": "https://favicone.com/www.zhihu.com?s=64"
         },
         {
-          "id": "douban",
-          "name": "豆瓣",
-          "url": "https://www.douban.com",
-          "description": "文艺生活社区",
-          "icon": "https://favicone.com/www.douban.com?s=64"
-        },
-        {
-          "id": "site-1754041496741",
-          "name": "油猴MWI脚本",
-          "url": "https://greasyfork.org/zh-CN/scripts?q=MWI",
-          "description": "",
-          "icon": "https://favicone.com/greasyfork.org?s=64"
-        },
-        {
-          "id": "site-1754200583342",
-          "name": "银河奶牛",
-          "url": "https://www.milkywayidle.com/?ref=355293",
-          "description": "",
-          "icon": "https://favicone.com/www.milkywayidle.com?s=64"
-        },
-        {
           "id": "site-1754381479699",
           "name": "Emu66",
           "url": "https://www.emu666.com/",
