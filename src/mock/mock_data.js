@@ -276,6 +276,13 @@ export const mockData = {
           "url": "https://gkd.pro/",
           "description": "一个网站",
           "icon": "https://favicone.com/gkd.pro?s=64"
+        },
+        {
+          "id": "site-1761018080315",
+          "name": "写小说",
+          "url": "https://arboris.aozhiai.com/",
+          "description": "一个写小说的项目",
+          "icon": "https://favicone.com/arboris.aozhiai.com?s=64"
         }
       ]
     },
