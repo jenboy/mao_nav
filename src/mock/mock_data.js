@@ -347,6 +347,13 @@ export const mockData = {
           "url": "https://ojx.me/",
           "description": "全国企业信息查询系统",
           "icon": "https://favicone.com/ojx.me?s=64"
+        },
+        {
+          "id": "site-1761047701225",
+          "name": "MAS激活windows",
+          "url": "https://massgrave.dev/",
+          "description": "一个激活电脑的网站",
+          "icon": "https://favicone.com/massgrave.dev?s=64"
         }
       ]
     },
