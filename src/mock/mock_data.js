@@ -29,10 +29,10 @@ export const mockData = {
         },
         {
           "id": "site-1762146460192",
-          "name": "blog",
+          "name": "情绪垃圾桶",
           "url": "https://xao.980324.xyz/",
           "description": "我的碎碎念",
-          "icon": "https://favicone.com/xao.980324.xyz?s=64"
+          "icon": "https://xao-server.980324.xyz/favicon"
         }
       ]
     },
