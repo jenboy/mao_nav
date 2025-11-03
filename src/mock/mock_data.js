@@ -26,6 +26,13 @@ export const mockData = {
           "url": "https://ai.980324.xyz",
           "description": "",
           "icon": "https://favicone.com/ai.980324.xyz?s=64"
+        },
+        {
+          "id": "site-1762146460192",
+          "name": "blog",
+          "url": "https://xao.980324.xyz/",
+          "description": "我的碎碎念",
+          "icon": "https://favicone.com/xao.980324.xyz?s=64"
         }
       ]
     },
