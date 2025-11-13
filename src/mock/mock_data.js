@@ -62,6 +62,13 @@ export const mockData = {
           "url": "https://ai.snapfit.space/zh",
           "description": "Snapifit-AI 通过提供一种革命性的、AI驱动的个人健康管理方法。",
           "icon": "https://favicone.com/ai.snapfit.space?s=64"
+        },
+        {
+          "id": "site-1763011573645",
+          "name": "api站",
+          "url": "https://api.kkyyxx.xyz/",
+          "description": "",
+          "icon": "https://external-content.duckduckgo.com/ip3/api.kkyyxx.xyz.ico"
         }
       ]
     },
@@ -404,6 +411,13 @@ export const mockData = {
           "url": "https://521gm.cn",
           "description": "免费公益游戏网",
           "icon": "https://favicone.com/521gm.cn?s=64"
+        },
+        {
+          "id": "site-1763011542278",
+          "name": "老虎机",
+          "url": "https://quota.kyx03.de/",
+          "description": "",
+          "icon": "https://favicone.com/quota.kyx03.de?s=64"
         }
       ]
     }
