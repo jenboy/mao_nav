@@ -361,6 +361,13 @@ export const mockData = {
           "url": "https://massgrave.dev/",
           "description": "一个激活电脑的网站",
           "icon": "https://favicone.com/massgrave.dev?s=64"
+        },
+        {
+          "id": "site-1763097992926",
+          "name": "邮箱",
+          "url": "https://mail.noah.edu.gr/",
+          "description": "一个邮箱",
+          "icon": "https://external-content.duckduckgo.com/ip3/mail.noah.edu.gr.ico"
         }
       ]
     },
