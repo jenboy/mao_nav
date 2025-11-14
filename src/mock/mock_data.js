@@ -418,6 +418,13 @@ export const mockData = {
           "url": "https://quota.kyx03.de/",
           "description": "",
           "icon": "https://favicone.com/quota.kyx03.de?s=64"
+        },
+        {
+          "id": "site-1763090508654",
+          "name": "无名杀",
+          "url": "https://raineggplant.github.io/",
+          "description": "",
+          "icon": "https://external-content.duckduckgo.com/ip3/raineggplant.github.io.ico"
         }
       ]
     }
