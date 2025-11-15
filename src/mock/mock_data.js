@@ -432,6 +432,13 @@ export const mockData = {
           "url": "https://raineggplant.github.io/",
           "description": "",
           "icon": "https://external-content.duckduckgo.com/ip3/raineggplant.github.io.ico"
+        },
+        {
+          "id": "site-1763171144677",
+          "name": "酒馆",
+          "url": "https://sese.sxxe.net/",
+          "description": "酒馆",
+          "icon": "https://external-content.duckduckgo.com/ip3/sese.sxxe.net.ico"
         }
       ]
     }
