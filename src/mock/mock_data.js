@@ -133,6 +133,13 @@ export const mockData = {
           "url": "https://supabase.com/",
           "description": "免费数据库",
           "icon": "https://external-content.duckduckgo.com/ip3/supabase.com.ico"
+        },
+        {
+          "id": "site-1763437347906",
+          "name": "Openrouter",
+          "url": "https://openrouter.ai/",
+          "description": "api提供商",
+          "icon": "https://external-content.duckduckgo.com/ip3/openrouter.ai.ico"
         }
       ]
     },
