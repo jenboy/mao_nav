@@ -304,6 +304,13 @@ export const mockData = {
           "url": "https://arboris.aozhiai.com/",
           "description": "一个写小说的项目",
           "icon": "https://favicone.com/arboris.aozhiai.com?s=64"
+        },
+        {
+          "id": "site-1763443374278",
+          "name": "小故事",
+          "url": "https://storynook.cn/",
+          "description": "很多小故事的网站",
+          "icon": "https://external-content.duckduckgo.com/ip3/storynook.cn.ico"
         }
       ]
     },
