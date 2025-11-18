@@ -126,6 +126,13 @@ export const mockData = {
           "url": "https://www.rainyun.com/NDkwOTgy_",
           "description": "雨云服务器",
           "icon": "https://favicone.com/app.rainyun.com?s=64"
+        },
+        {
+          "id": "site-1763436175023",
+          "name": "Supabase",
+          "url": "https://supabase.com/",
+          "description": "免费数据库",
+          "icon": "https://external-content.duckduckgo.com/ip3/supabase.com.ico"
         }
       ]
     },
