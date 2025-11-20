@@ -460,6 +460,13 @@ export const mockData = {
           "url": "https://sese.sxxe.net/",
           "description": "酒馆",
           "icon": "https://external-content.duckduckgo.com/ip3/sese.sxxe.net.ico"
+        },
+        {
+          "id": "site-1763632741357",
+          "name": "OnlineGame",
+          "url": "https://www.freeonlinegame.games/",
+          "description": "在线小游戏",
+          "icon": "https://external-content.duckduckgo.com/ip3/www.freeonlinegame.games.ico"
         }
       ]
     }
