@@ -474,6 +474,13 @@ export const mockData = {
           "url": "http://obsview.zywxgames.com/new-resources/Users/Fan/Wzr/web/gfdstz/6/index.html",
           "description": "割草江湖游戏",
           "icon": "https://favicone.com/obsview.zywxgames.com?s=64"
+        },
+        {
+          "id": "site-1763717759940",
+          "name": "小霸王游戏合集",
+          "url": "https://www.yikm.net/",
+          "description": "",
+          "icon": "https://favicone.com/www.yikm.net?s=64"
         }
       ]
     }
