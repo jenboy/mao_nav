@@ -467,6 +467,13 @@ export const mockData = {
           "url": "https://www.freeonlinegame.games/",
           "description": "在线小游戏",
           "icon": "https://external-content.duckduckgo.com/ip3/www.freeonlinegame.games.ico"
+        },
+        {
+          "id": "site-1763717552709",
+          "name": "割草江湖",
+          "url": "http://obsview.zywxgames.com/new-resources/Users/Fan/Wzr/web/gfdstz/6/index.html",
+          "description": "割草江湖游戏",
+          "icon": "https://favicone.com/obsview.zywxgames.com?s=64"
         }
       ]
     }
