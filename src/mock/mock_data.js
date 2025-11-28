@@ -33,13 +33,6 @@ export const mockData = {
           "url": "https://xao.980324.xyz/",
           "description": "我的碎碎念",
           "icon": "https://xao-server.980324.xyz/favicon"
-        },
-        {
-          "id": "site-1764308606471",
-          "name": "API站",
-          "url": "https://kfc-api.sxxe.net/",
-          "description": "",
-          "icon": "https://external-content.duckduckgo.com/ip3/kfc-api.sxxe.net.ico"
         }
       ]
     },
@@ -69,6 +62,13 @@ export const mockData = {
           "url": "https://ai.snapfit.space/zh",
           "description": "Snapifit-AI 通过提供一种革命性的、AI驱动的个人健康管理方法。",
           "icon": "https://favicone.com/ai.snapfit.space?s=64"
+        },
+        {
+          "id": "site-1764308606471",
+          "name": "API站",
+          "url": "https://kfc-api.sxxe.net/",
+          "description": "",
+          "icon": "https://external-content.duckduckgo.com/ip3/kfc-api.sxxe.net.ico"
         }
       ]
     },
