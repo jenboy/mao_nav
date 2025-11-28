@@ -356,13 +356,6 @@ export const mockData = {
           "icon": "https://favicone.com/curlconverter.com?s=64"
         },
         {
-          "id": "site-1754297011808",
-          "name": "当贝AI",
-          "url": "https://ai.dangbei.com/agent",
-          "description": "首款旅行AI超级智能体，极简易用，3屏设计，简单直观，小白也能轻松做旅游攻略！",
-          "icon": "https://favicone.com/ai.dangbei.com?s=64"
-        },
-        {
           "id": "site-1756512743170",
           "name": "Raphael AI",
           "url": "https://raphael.app/",
@@ -441,13 +434,6 @@ export const mockData = {
           "icon": "https://favicone.com/521gm.cn?s=64"
         },
         {
-          "id": "site-1763011542278",
-          "name": "老虎机",
-          "url": "https://quota.kyx03.de/",
-          "description": "",
-          "icon": "https://favicone.com/quota.kyx03.de?s=64"
-        },
-        {
           "id": "site-1763090508654",
           "name": "无名杀",
           "url": "https://raineggplant.github.io/",
@@ -455,25 +441,11 @@ export const mockData = {
           "icon": "https://external-content.duckduckgo.com/ip3/raineggplant.github.io.ico"
         },
         {
-          "id": "site-1763171144677",
-          "name": "酒馆",
-          "url": "https://sese.sxxe.net/",
-          "description": "酒馆",
-          "icon": "https://external-content.duckduckgo.com/ip3/sese.sxxe.net.ico"
-        },
-        {
           "id": "site-1763632741357",
           "name": "OnlineGame",
           "url": "https://www.freeonlinegame.games/",
           "description": "在线小游戏",
           "icon": "https://external-content.duckduckgo.com/ip3/www.freeonlinegame.games.ico"
-        },
-        {
-          "id": "site-1763717552709",
-          "name": "割草江湖",
-          "url": "http://obsview.zywxgames.com/new-resources/Users/Fan/Wzr/web/gfdstz/6/index.html",
-          "description": "割草江湖游戏",
-          "icon": "https://favicone.com/obsview.zywxgames.com?s=64"
         },
         {
           "id": "site-1763717759940",
