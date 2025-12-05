@@ -69,6 +69,13 @@ export const mockData = {
           "url": "https://kfc-api.sxxe.net/",
           "description": "",
           "icon": "https://external-content.duckduckgo.com/ip3/kfc-api.sxxe.net.ico"
+        },
+        {
+          "id": "site-1764903807250",
+          "name": "薄荷公益API",
+          "url": "https://x666.me/register?aff=T4Lp",
+          "description": "公益API",
+          "icon": "https://external-content.duckduckgo.com/ip3/x666.me.ico"
         }
       ]
     },
