@@ -33,6 +33,13 @@ export const mockData = {
           "url": "https://xao.980324.xyz/",
           "description": "我的碎碎念",
           "icon": "https://xao-server.980324.xyz/favicon"
+        },
+        {
+          "id": "site-1764993505781",
+          "name": "宝可梦",
+          "url": "https://love1.go52pokemon.com/#/register?code=l7ChgJrv",
+          "description": "",
+          "icon": "https://external-content.duckduckgo.com/ip3/love1.go52pokemon.com.ico"
         }
       ]
     },
@@ -318,6 +325,13 @@ export const mockData = {
           "url": "https://storynook.cn/",
           "description": "很多小故事的网站",
           "icon": "https://external-content.duckduckgo.com/ip3/storynook.cn.ico"
+        },
+        {
+          "id": "site-1764993490903",
+          "name": "宝可梦",
+          "url": "https://love.521pokemon.com/",
+          "description": "",
+          "icon": "https://favicone.com/love.521pokemon.com?s=64"
         }
       ]
     },
