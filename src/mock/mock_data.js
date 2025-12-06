@@ -320,18 +320,18 @@ export const mockData = {
           "icon": "https://external-content.duckduckgo.com/ip3/storynook.cn.ico"
         },
         {
-          "id": "site-1764993490903",
-          "name": "宝可梦",
-          "url": "https://love.521pokemon.com/",
-          "description": "",
-          "icon": "https://favicone.com/love.521pokemon.com?s=64"
-        },
-        {
           "id": "site-1764993505781",
           "name": "宝可梦",
           "url": "https://love1.go52pokemon.com/#/register?code=l7ChgJrv",
           "description": "",
           "icon": "https://external-content.duckduckgo.com/ip3/love1.go52pokemon.com.ico"
+        },
+        {
+          "id": "site-1764993490903",
+          "name": "指南针",
+          "url": "https://love.521pokemon.com/",
+          "description": "",
+          "icon": "https://favicone.com/love.521pokemon.com?s=64"
         }
       ]
     },
